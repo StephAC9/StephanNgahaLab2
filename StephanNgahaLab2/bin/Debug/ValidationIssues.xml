@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ValidationIssue Include="WebRole1|WebRole1|WAT190">
+      <ProjectName>WebRole1</ProjectName>
+      <FilenameWithExtension>WebRole1</FilenameWithExtension>
+      <Code>WAT190</Code>
+      <FileFullPath>WebRole1</FileFullPath>
+      <WATMessage>True</WATMessage>
+      <Arguments>WebRole1;.NET Framework 4.8</Arguments>
+      <HelpKeyword>WATValidationIssueWarning</HelpKeyword>
+    </ValidationIssue>
+    <ValidationIssue Include="WorkerRole1|WorkerRole1|WAT190">
+      <ProjectName>WorkerRole1</ProjectName>
+      <FilenameWithExtension>WorkerRole1</FilenameWithExtension>
+      <Code>WAT190</Code>
+      <FileFullPath>WorkerRole1</FileFullPath>
+      <WATMessage>True</WATMessage>
+      <Arguments>WorkerRole1;.NET Framework 4.8</Arguments>
+      <HelpKeyword>WATValidationIssueWarning</HelpKeyword>
+    </ValidationIssue>
+    <ValidationIssue Include="WorkerRole2|WorkerRole2|WAT190">
+      <ProjectName>WorkerRole2</ProjectName>
+      <FilenameWithExtension>WorkerRole2</FilenameWithExtension>
+      <Code>WAT190</Code>
+      <FileFullPath>WorkerRole2</FileFullPath>
+      <WATMessage>True</WATMessage>
+      <Arguments>WorkerRole2;.NET Framework 4.8</Arguments>
+      <HelpKeyword>WATValidationIssueWarning</HelpKeyword>
+    </ValidationIssue>
+    <ValidationIssue Include="WorkerRole3|WorkerRole3|WAT190">
+      <ProjectName>WorkerRole3</ProjectName>
+      <FilenameWithExtension>WorkerRole3</FilenameWithExtension>
+      <Code>WAT190</Code>
+      <FileFullPath>WorkerRole3</FileFullPath>
+      <WATMessage>True</WATMessage>
+      <Arguments>WorkerRole3;.NET Framework 4.8</Arguments>
+      <HelpKeyword>WATValidationIssueWarning</HelpKeyword>
+    </ValidationIssue>
+    <ValidationIssue Include="WorkerRole4|WorkerRole4|WAT190">
+      <ProjectName>WorkerRole4</ProjectName>
+      <FilenameWithExtension>WorkerRole4</FilenameWithExtension>
+      <Code>WAT190</Code>
+      <FileFullPath>WorkerRole4</FileFullPath>
+      <WATMessage>True</WATMessage>
+      <Arguments>WorkerRole4;.NET Framework 4.8</Arguments>
+      <HelpKeyword>WATValidationIssueWarning</HelpKeyword>
+    </ValidationIssue>
+  </ItemGroup>
+</Project>

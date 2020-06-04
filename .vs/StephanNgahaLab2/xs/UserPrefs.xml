@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9BDD996C-992B-4CA5-81E3-5ED2F67CDA70}|">
+  <MonoDevelop.Ide.ItemProperties.WebRole1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StephanNgahaLab2" expanded="True">
+            <Node name="StephanNgahaLab2" selected="True" />
+            <Node name="WebRole1" expanded="True" />
+            <Node name="WorkerRole1" expanded="True" />
+            <Node name="WorkerRole2" expanded="True" />
+            <Node name="WorkerRole3" expanded="True" />
+            <Node name="WorkerRole4" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BAAcicWMhDBm567oP4TZ514gVRGqkKfvhX3cugQcTCkKFBrpW+5GMPsl68mQH04AknkgOHGbWzOeO/Ioe8TDZQ==",
+  "success": true,
+  "projectFilePath": "/Users/macbookpro/Desktop/StephanNgahaLab2/WebRole1/WebRole1.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbookpro/.nuget/packages/microsoft.windowsazure.sdk/2.9.0/microsoft.windowsazure.sdk.2.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

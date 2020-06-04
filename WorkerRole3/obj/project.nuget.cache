@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bg7kGYpv0ckkshWGW1NGKRfhlZGlvmu20GWRcFQ2y2ly5rigeizOLoBYfYSoPP9MzE9yPpZdPPZeTPKN1vXCuQ==",
+  "success": true,
+  "projectFilePath": "/Users/macbookpro/Desktop/StephanNgahaLab2/WorkerRole3/WorkerRole3.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbookpro/.nuget/packages/unofficial.microsoft.windowsazure.serviceruntime/2.9.0/unofficial.microsoft.windowsazure.serviceruntime.2.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
